@@ -1,0 +1,5 @@
+org\gic\BookingManagerTest.class
+org\gic\CinemaBookingSystemTest.class
+org\gic\BookingHelperTest.class
+org\gic\SeatMapTest.class
+org\gic\BookingTestConstants.class
